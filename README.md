@@ -6,7 +6,9 @@ To run the code, you must have the following libraries present:
 + `pytorch >= 1.0`
 + `opencv < 4.0`
 + `numpy`
-
++ `torchsummary`
 ## Run
 To run just start the notebook. The path of datasets should be set accordingly. Code will be ported into scripts shortly
+## Evaluation
+Evaluation on the entire dataset after 50 epochs gives us an accuracy of 68%
 
