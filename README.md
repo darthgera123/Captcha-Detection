@@ -11,4 +11,8 @@ To run the code, you must have the following libraries present:
 To run just start the notebook. The path of datasets should be set accordingly. Code will be ported into scripts shortly
 ## Evaluation
 Evaluation on the entire dataset after 50 epochs gives us an accuracy of 68%
-
+## Plots
+### Loss Plots :   
+![](https://github.com/darthgera123/Captcha-Detection/blob/main/plots/lossplots.png)
+### Accuracy Plots :  
+![](https://github.com/darthgera123/Captcha-Detection/blob/main/plots/accuracyplots.png)
